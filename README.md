@@ -205,7 +205,7 @@ notebooks/decision_tree_emv.ipynb
 **Name:** Cecilia Ledesma  
 **GitHub:** https://github.com/ceciagro  
 **LinkedIn:** (add your profile URL here)  
-**Email:** ceciledesma@gmail.com  *(optional — included only if you want recruiters to contact you directly)*  
+**Email:** cecledesma@gmail.com  *(optional — included only if you want recruiters to contact you directly)*  
 **Location:** Argentina (available for fully remote roles)
 
 ### 🔎 Open to:

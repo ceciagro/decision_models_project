@@ -204,7 +204,6 @@ notebooks/decision_tree_emv.ipynb
 
 **Name:** Cecilia Ledesma  
 **GitHub:** https://github.com/ceciagro  
-**LinkedIn:** (add your profile URL here)  
 **Email:** cecledesma@gmail.com 
 **Location:** Argentina (available for fully remote roles)
 
